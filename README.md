@@ -16,8 +16,8 @@ A few useful links:
 
 ## 2021-11-06
 
-- Complete the workbook related to the lesson "2. Traditional Methods for ML on Graphs"
+- Complete the notebook related to the 2nd lesson "Traditional Methods for ML on Graphs"
 
 ## 2021-11-04
 
-- Complete the workbook related to the lesson "1. Introduction; Machine Learning for Graphs"
+- Complete the notebook related to the 1st lesson "Introduction; Machine Learning for Graphs"
