@@ -10,9 +10,14 @@ A few useful links:
 
 # Notebooks
 1. [Introduction; Machine Learning for Graphs](https://github.com/mnslarcher/cs224w-machine-learning-with-graphs/blob/main/notebooks/01-introduction-machine-learning-for-graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-machine-learning-with-graphs/blob/main/notebooks/01-introduction-machine-learning-for-graphs.ipynb)
+2. [Traditional Methods for ML on Graphs](https://github.com/mnslarcher/cs224w-machine-learning-with-graphs/blob/main/notebooks/02-traditional-methods-for-ml-on-graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-machine-learning-with-graphs/blob/main/notebooks/02-traditional-methods-for-ml-on-graphs.ipynb)
 
 # Changelog
 
+## 2021-11-06
+
+- Complete the workbook related to the lesson "2. Traditional Methods for ML on Graphs"
+
 ## 2021-11-04
 
-- Complete the notebook related to the first lesson "1. Introduction; Machine Learning for Graphs"
+- Complete the workbook related to the lesson "1. Introduction; Machine Learning for Graphs"
