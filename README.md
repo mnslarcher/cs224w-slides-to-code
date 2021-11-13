@@ -11,8 +11,13 @@ A few useful links:
 # Notebooks
 1. [Introduction; Machine Learning for Graphs](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/01-introduction-machine-learning-for-graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/01-introduction-machine-learning-for-graphs.ipynb)
 2. [Traditional Methods for ML on Graphs](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/02-traditional-methods-for-ml-on-graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/02-traditional-methods-for-ml-on-graphs.ipynb)
+3. [Node Embeddings](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb)
 
 # Changelog
+
+## 2021-11-13
+
+- Complete the notebook related to the 3rd lesson "Node Embeddings"
 
 ## 2021-11-06
 
