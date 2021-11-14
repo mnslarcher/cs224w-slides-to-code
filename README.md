@@ -12,8 +12,13 @@ A few useful links:
 1. [Introduction; Machine Learning for Graphs](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/01-introduction-machine-learning-for-graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/01-introduction-machine-learning-for-graphs.ipynb)
 2. [Traditional Methods for ML on Graphs](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/02-traditional-methods-for-ml-on-graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/02-traditional-methods-for-ml-on-graphs.ipynb)
 3. [Node Embeddings](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb)
+4. [Link Analysis: PageRank](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/04-link-analysis-pagerank.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/04-link-analysis-pagerank.ipynb)
 
 # Changelog
+
+## 2021-11-14
+
+- Complete the notebook related to the 4th lesson "Link Analysis: PageRank"
 
 ## 2021-11-13
 
