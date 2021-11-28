@@ -13,8 +13,13 @@ A few useful links:
 2. [Traditional Methods for ML on Graphs](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/02-traditional-methods-for-ml-on-graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/02-traditional-methods-for-ml-on-graphs.ipynb)
 3. [Node Embeddings](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb)
 4. [Link Analysis: PageRank](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/04-link-analysis-pagerank.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/04-link-analysis-pagerank.ipynb)
+5. [Label Propagation for Node Classification](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/05-label-propagation-for-node-classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/05-label-propagation-for-node-classification.ipynb)
 
 # Changelog
+
+## 2021-11-28
+
+- Complete the notebook related to the 5th lesson "Label Propagation for Node Classification"
 
 ## 2021-11-14
 
