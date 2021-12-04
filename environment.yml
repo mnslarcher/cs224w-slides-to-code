@@ -1,0 +1,20 @@
+# This is Conda environment file
+# Usage: `conda env update -f environment.yml`
+
+name:
+  cs224w
+
+channels:
+  - pyg
+  - pytorch
+  - conda-forge
+
+dependencies:
+    - grakel==0.1.8
+    - ipywidgets
+    - karateclub==1.2.1
+    - notebook
+    - pip
+    - pyg
+    - python==3.7.12
+    - pytorch>=1.8.0
