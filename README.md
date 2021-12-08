@@ -14,8 +14,14 @@ A few useful links:
 3. [Node Embeddings](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb)
 4. [Link Analysis: PageRank](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/04-link-analysis-pagerank.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/04-link-analysis-pagerank.ipynb)
 5. [Label Propagation for Node Classification](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/05-label-propagation-for-node-classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/05-label-propagation-for-node-classification.ipynb)
+6. [Graph Neural Networks 1: GNN Model](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb)
 
 # Changelog
+
+## 2021-12-04
+
+- Complete the notebook related to the 6th lesson "Graph Neural Networks 1: GNN Model"
+- Add Anaconda env. file
 
 ## 2021-11-28
 
