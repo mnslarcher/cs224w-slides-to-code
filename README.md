@@ -1,8 +1,10 @@
 # CS224W: Machine Learning with Graphs - Slides to Code (Unofficial)
 
-This repository is an attempt to convert the slides from awesome Stanford's "CS224W: Machine Learning with Graphs" course into code.
+This repository is an attempt to convert the slides from Stanford's "CS224W: Machine Learning with Graphs" course into code. The notebooks presented here include code to implement techniques hinted at in the lectures but not shown in the official labs.
 
-**Disclaimer: I am not a Stanford student and this material has not been reviewed by the course instructors, it is possible that it contains errors, if you find any please open an issue.**
+My initial plan was to cover all the lessons but already by the eighth the computation becomes challenging for Colab and I think these first eight are already a great introduction to the subject, I'll stop here.
+
+> **Disclaimer**: I am not a Stanford student and this material has not been reviewed by the course instructors, it is possible that it contains errors, if you find any please open an issue.
 
 A few useful links:
 * [CS224W | Home](http://web.stanford.edu/class/cs224w/index.html#schedule)
@@ -16,8 +18,13 @@ A few useful links:
 5. [Label Propagation for Node Classification](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/05-label-propagation-for-node-classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/05-label-propagation-for-node-classification.ipynb)
 6. [Graph Neural Networks 1: GNN Model](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb)
 7. [Graph Neural Networks 2: Design Space](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/07-graph-neural-networks-2-design-space.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/07-graph-neural-networks-2-design-space.ipynb)
+8. [Applications of Graph Neural Networks](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/08-applications-of-graph-neural-networks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/08-applications-of-graph-neural-networks.ipynb)
 
 # Changelog
+
+## 2021-12-12
+
+- Complete the notebook related to the 8th lesson "Applications of Graph Neural Networks"
 
 ## 2021-12-08
 
