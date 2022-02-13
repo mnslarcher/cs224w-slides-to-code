@@ -16,11 +16,15 @@ A few useful links:
 3. [Node Embeddings](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/03-node-embeddings.ipynb)
 4. [Link Analysis: PageRank](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/04-link-analysis-pagerank.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/04-link-analysis-pagerank.ipynb)
 5. [Label Propagation for Node Classification](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/05-label-propagation-for-node-classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/05-label-propagation-for-node-classification.ipynb)
-6. [Graph Neural Networks 1: GNN Model](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb)
+6. [Graph Neural Networks 1: GNN Model](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb) [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://blog.devgenius.io/how-to-train-a-graph-convolutional-network-on-the-cora-dataset-with-pytorch-geometric-847ed5fab9cb)
 7. [Graph Neural Networks 2: Design Space](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/07-graph-neural-networks-2-design-space.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/07-graph-neural-networks-2-design-space.ipynb)
 8. [Applications of Graph Neural Networks](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/08-applications-of-graph-neural-networks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/08-applications-of-graph-neural-networks.ipynb)
 
 # Changelog
+
+## 2022-02-13
+
+- Add the link to the Medium article related to the 6th lesson "Graph Neural Networks 1: GNN Model"
 
 ## 2021-12-12
 
